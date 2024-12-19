@@ -1,6 +1,7 @@
 red
 green
 blue
-black
-white
-this is an added text
+blacks
+whites
+this is an added text1
+another added line
